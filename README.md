@@ -29,10 +29,10 @@ col -> inner Loop
         *   *
         *****
 3)Half Pyramid
-            *
-            **
-            ***
-            ****
+                             *
+                             **
+                             ***
+                             ****
 4)Inverted Half pyramid
     ****
     ***
