@@ -10,3 +10,53 @@ For running java we use in Terminal
 
 2>>Loop >>https://github.com/PranavChandore/JAVA_DSA/commit/30f87cf47938d1e450543de2fe4a91da0f847665
 
+3>> java patterns
+row -> outer Loop
+col -> inner Loop
+
+
+1)*****                              
+  *****   
+  *****
+  *****
+ 2)     *****
+        *   *
+        *   *
+        *****
+3)Half Pyramid
+            *
+            **
+            ***
+            ****
+4)Inverted Half pyramid
+    ****
+    ***
+    **
+    *
+5)space using half pyramid
+   *
+  **
+ ***
+****
+6)Number series
+1
+12
+123
+1234
+
+7)Inverted Number series
+    1234
+    123
+    12
+    1
+8)Floyd,s Tringle
+1 
+2 3 
+4 5 6 
+7 8 9 10
+
+9)0,1 Tringle
+1
+01
+101
+0101
