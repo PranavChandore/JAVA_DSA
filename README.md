@@ -7,4 +7,4 @@ For running java we use in shell --
 >>java File_name.java
 
 
-1} FirstClass >> syntex
+
