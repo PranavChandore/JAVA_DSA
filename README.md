@@ -2,7 +2,7 @@
 Java learning and dsa 
 
 // We save the java file with .java extenstion
-For running java we use in shell --
+For running java we use in Terminal
 >>javac  file_Name.java
 >>java File_name.java
 
