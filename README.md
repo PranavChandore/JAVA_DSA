@@ -11,6 +11,11 @@ For running java we use in Terminal
 2>>Loop >>https://github.com/PranavChandore/JAVA_DSA/commit/30f87cf47938d1e450543de2fe4a91da0f847665
 
 3>> java patterns  >>https://github.com/PranavChandore/JAVA_DSA/blob/main/JavaPatterns.java
+
+
+
+
+
 row -> outer Loop
 col -> inner Loop
 
