@@ -6,5 +6,6 @@ For running java we use in shell --
 >>javac  file_Name.java
 >>java File_name.java
 
+1} Conditons >>>https://github.com/PranavChandore/JAVA_DSA/commit/f5f03ccc30ba8d38cb6fae59c5d4cfc3753d0c13
 
 
