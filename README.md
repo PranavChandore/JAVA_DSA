@@ -65,3 +65,54 @@ col -> inner Loop
 01
 101
 0101
+
+4>> Advance JAVA Pattern >>>>https://github.com/PranavChandore/JAVA_DSA/blob/main/AdvjavaPatterns.java
+
+1)Butterfly
+        /*Butterfly Pattern
+            *      *
+            **    **
+            ***  ***
+            ********
+            ***  ***
+            **    **
+            *      *
+        */
+2)        /*Rohmbus Pattern
+             ****
+            ****
+           ****
+          ****
+
+        */
+3)        /*Number Pyramid question
+
+                 1 
+                2 2 
+               3 3 3 
+              4 4 4 4 
+       
+        */
+4)        /*Palindrome questions Pattern
+
+             1
+            212
+           32123
+          4321234
+      
+
+        */
+   5)        /*
+        Dimond Pattern
+           *
+          ***
+         *****
+        *******
+        *******
+         *****
+          ***
+           *
+        
+
+
+        */
