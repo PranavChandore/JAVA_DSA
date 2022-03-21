@@ -67,7 +67,7 @@ col -> inner Loop
 0101
 
 4>> Advance JAVA Pattern >>>>https://github.com/PranavChandore/JAVA_DSA/blob/main/AdvjavaPatterns.java
-
+>>>>https://github.com/PranavChandore/JAVA_DSA/blob/main/AdvjavaPatterns.java
 1)Butterfly
         /*Butterfly Pattern
             *      *
