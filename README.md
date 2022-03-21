@@ -70,13 +70,13 @@ col -> inner Loop
 >>>>https://github.com/PranavChandore/JAVA_DSA/blob/main/AdvjavaPatterns.java
 1)Butterfly
         /*Butterfly Pattern
-            *      *
-            **    **
-            ***  ***
-            ********
-            ***  ***
-            **    **
-            *      *
+                              *      *
+                              **    **
+                              ***  ***
+                              ********
+                              ***  ***
+                              **    **
+                              *      *
         */
 2)        /*Rohmbus Pattern
              ****
