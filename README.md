@@ -40,11 +40,17 @@ col -> inner Loop
     ***
     **
     *
-5)space using half pyramid
+    
+    
+ 5)     SPACE USING HALF PYRAMID
+/*
+space using half pyramid
    *
   **
  ***
 ****
+
+*/
 6)Number series
 1
 12
