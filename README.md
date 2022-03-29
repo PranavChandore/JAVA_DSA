@@ -180,7 +180,9 @@ space using half pyramid
 */
 
 >>JAVA FUNCTION LEARNING--->>https://github.com/PranavChandore/JAVA_DSA/blob/main/function.java
+
+>>NOtes-------->>https://docs.google.com/document/d/1XB2d4kTzhvmMrvYMgy53AzM4q9iDAxQq7pZ69a2IJjs/edit
       
       HERE ONE THING REMEMBER
-          1)Difference between function and method method is used we need to declare class object in main and then we can access in FUNCTION is not requierd
+    1) Method needs to declare class objects and FUNCTION not
   
