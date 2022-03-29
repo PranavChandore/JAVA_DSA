@@ -4,7 +4,9 @@ Java learning and dsa
 // We save the java file with .java extenstion
 For running java we use in Terminal
 >>javac  file_Name.java
->>java File_name.java
+//>>----
+//>>00000
+>>java File_name
 
 1>> Conditons >>>https://github.com/PranavChandore/JAVA_DSA/commit/f5f03ccc30ba8d38cb6fae59c5d4cfc3753d0c13
 
@@ -116,3 +118,57 @@ col -> inner Loop
 
 
         */
+  6)        /*  REMEMBER 2* FORMULA (2*I-1)                  
+
+           *
+          * *
+         *   *
+        *     *
+        *     *
+         *   *
+          * *
+           *
+
+        */
+    7)                /*
+                1 1 1 1 1 1 1 1 
+                1 1 1 1 1 1 2 2 
+                1 1 1 1 1 3 3 3 
+                1 1 1 1 4 4 4 4 
+                1 1 1 5 5 5 5 5 
+                1 1 6 6 6 6 6 6 
+                1 7 7 7 7 7 7 7 
+                8 8 8 8 8 8 8 8
+
+
+
+                */
+       9)            /*  
+                ********
+                ***  ***
+                **    **
+                *      *
+                **    **
+                ***  ***
+                ********
+
+*/
+10)            /*
+            MOST IMPORTANT  FOR PATTERN PROGRAM
+            
+            FOR(INT J =I;J<=N;J++)
+
+               ****
+                ***
+                 **
+                  *
+
+    */
+11)            /*ALWAYS REMEMBER 2*I-1 FORMULA
+
+            ********
+            ***  ***
+            **    **
+            *      *
+
+*/
